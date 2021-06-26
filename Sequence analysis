@@ -1,0 +1,7 @@
+# Search the potential CopA gene using NCBI ORF finder
+# Website: https://www.ncbi.nlm.nih.gov/orfinder/
+# Since the length of copA amino acid sequences are between 500-800, ORFs in this length range are selected as the target data.
+# The prediction of transmembrane helices using the TMHMM (http://www.cbs.dtu.dk/services/TMHMM-2.0/) online analysis platform.
+# Functional domains were then predicted using Pfam (http://pfam.xfam.org/) 
+# Phylogenetic analysis
+# Analyze the similarity between ORF and the reported copA gene by constructing evolutionary tree using MRGE 7.0. Select sequences that meet the requirements and move on to functional verification.
